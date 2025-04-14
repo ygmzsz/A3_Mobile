@@ -1,3 +1,31 @@
 <resources>
-    <string name="app_name">A3</string>
+    <string name="app_name">ThemesMenus</string>
+    <string name="title_activity_2">Activity2</string>
+    <string name="activity2">Activity 2</string>
+    <string name="activity3">Activity 3</string>
+    <string name="title_activity_3">Activity3</string>
+    <string name="go_back">Go Back</string>
+    <string name="go_to_3">Go to Activity 3</string>
+
+    <string-array name="country_list">
+        <item>Canada</item>
+        <item>France</item>
+        <item>Germany</item>
+        <item>Japan</item>
+        <item>United States</item>
+
+    </string-array>
+
+    <string-array name="airline_list">
+        <item>Emirates</item>
+        <item>Air Canada</item>
+        <item>United Airlines</item>
+        <item>American Airlines</item>
+    </string-array>
+
+    <string-array name="class_list">
+        <item>Economy Class</item>
+        <item>Business Class</item>
+        <item>First Class</item>
+    </string-array>
 </resources>

@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "com.example.lecture4.app-merged_res-52:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.lecture4.app-main-54:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.lecture4.app-merged_res-52:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.lecture4.app-main-54:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.lecture4.app-merged_res-52:/xml_backup_rules.xml.flat",
+        "source": "com.example.lecture4.app-main-54:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.lecture4.app-merged_res-52:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.lecture4.app-main-54:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.lecture4.app-merged_res-52:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.lecture4.app-main-54:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.lecture4.app-merged_res-52:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.lecture4.app-main-54:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.lecture4.app-merged_res-52:/drawable_attachment.xml.flat",
+        "source": "com.example.lecture4.app-main-54:/drawable/attachment.xml"
+    },
+    {
+        "merged": "com.example.lecture4.app-merged_res-52:/drawable_baseline_settings_bluetooth_24.xml.flat",
+        "source": "com.example.lecture4.app-main-54:/drawable/baseline_settings_bluetooth_24.xml"
+    },
+    {
+        "merged": "com.example.lecture4.app-merged_res-52:/layout_activity_2.xml.flat",
+        "source": "com.example.lecture4.app-main-54:/layout/activity_2.xml"
+    },
+    {
+        "merged": "com.example.lecture4.app-merged_res-52:/drawable_settings.xml.flat",
+        "source": "com.example.lecture4.app-main-54:/drawable/settings.xml"
+    },
+    {
+        "merged": "com.example.lecture4.app-merged_res-52:/drawable_new_file.xml.flat",
+        "source": "com.example.lecture4.app-main-54:/drawable/new_file.xml"
+    },
+    {
+        "merged": "com.example.lecture4.app-merged_res-52:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.lecture4.app-main-54:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.lecture4.app-merged_res-52:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.lecture4.app-main-54:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.lecture4.app-merged_res-52:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.lecture4.app-main-54:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.lecture4.app-merged_res-52:/menu_mymenu.xml.flat",
+        "source": "com.example.lecture4.app-main-54:/menu/mymenu.xml"
+    },
+    {
+        "merged": "com.example.lecture4.app-merged_res-52:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.lecture4.app-main-54:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.lecture4.app-merged_res-52:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.lecture4.app-main-54:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.lecture4.app-merged_res-52:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.lecture4.app-main-54:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.lecture4.app-merged_res-52:/layout_activity_3.xml.flat",
+        "source": "com.example.lecture4.app-main-54:/layout/activity_3.xml"
+    },
+    {
+        "merged": "com.example.lecture4.app-merged_res-52:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.lecture4.app-main-54:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.lecture4.app-merged_res-52:/layout_activity_main.xml.flat",
+        "source": "com.example.lecture4.app-main-54:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.lecture4.app-merged_res-52:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.lecture4.app-main-54:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.lecture4.app-merged_res-52:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.lecture4.app-main-54:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.lecture4.app-merged_res-52:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.lecture4.app-main-54:/mipmap-xxhdpi/ic_launcher.webp"
+    }
+]

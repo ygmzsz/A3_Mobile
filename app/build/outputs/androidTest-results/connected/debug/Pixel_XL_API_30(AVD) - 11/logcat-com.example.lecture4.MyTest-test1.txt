@@ -1,0 +1,2 @@
+01-31 12:01:42.574  4762  4784 I TestRunner: started: test1(com.example.lecture4.MyTest)
+01-31 12:01:42.579  4762  4784 I TestRunner: finished: test1(com.example.lecture4.MyTest)

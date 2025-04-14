@@ -1,0 +1,68 @@
+# 2024-01-31T17:01:44.911Z:
+test_suite_meta_data {
+  scheduled_test_case_count: 1
+}
+test_status: PASSED
+test_result {
+  test_case {
+    test_class: "MyTest"
+    test_package: "com.example.lecture4"
+    test_method: "test1"
+    start_time {
+      seconds: 1706720503
+      nanos: 487000000
+    }
+    end_time {
+      seconds: 1706720503
+      nanos: 523000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\pgill2\\Downloads\\Lecture4\\Lecture42\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_XL_API_30(AVD) - 11\\logcat-com.example.lecture4.MyTest-test1.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\pgill2\\Downloads\\Lecture4\\Lecture42\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_XL_API_30(AVD) - 11\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\pgill2\\Downloads\\Lecture4\\Lecture42\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_XL_API_30(AVD) - 11\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\pgill2\\Downloads\\Lecture4\\Lecture42\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_XL_API_30(AVD) - 11\\cpuinfo"
+    }
+  }
+}
+output_artifact {
+  label {
+    label: "test-results.log"
+    namespace: "com.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver"
+  }
+  source_path {
+    path: "C:\\Users\\pgill2\\Downloads\\Lecture4\\Lecture42\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_XL_API_30(AVD) - 11\\testlog\\test-results.log"
+  }
+  type: TEST_DATA
+  mime_type: "text/plain"
+}
